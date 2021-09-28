@@ -1,7 +1,7 @@
 Dataset Description: This dataset is downloaded from kaggle "https://www.kaggle.com/rohitsahoo/sales-forecasting/download" .
 It has 18 columns and 9800 obeservations. This dataset has various sale orders of Superstore from customers across different regions of USA. 
-Row ID: This is the duplicated row i.e. index row of the dataset of type integer 
-OrderID: Has order id's of customers with data type object 
+Row ID: This is the duplicated row i.e. index row of the dataset of type integer.
+OrderID: Has order id's of customers with data type object.
 Order Date: It has the date of order and is of type object as from original dataset Ship Date: This column has the shipping dates for each order of type object.
 Customer ID : It has all customer id's of type object. Customer Name: It has customer names of type object 
 Segement: This column reveals the segemnt of each order i.e, public,private or residential product.This is of type object 
