@@ -164,3 +164,10 @@ Some insightful observations:
 
 ### Conclusion
 ####After analyzing the three models, I think KNN Classifier can classify better compared to others.We can improve the accuracy by dealing the dataset imbalance through better modeling techniques.
+
+### References:
+1. [https://www.alpharithms.com/correlation-matrix-heatmaps-python-152514/](https://www.alpharithms.com/correlation-matrix-heatmaps-python-152514/)
+2. [https://medium.com/geekculture/how-to-plot-a-treemap-in-python-48743061cfda](https://medium.com/geekculture/how-to-plot-a-treemap-in-python-48743061cfda)
+3. [https://machinelearningmastery.com/multinomial-logistic-regression-with-python/](https://machinelearningmastery.com/multinomial-logistic-regression-with-python/)
+4. [https://medium.com/analytics-vidhya/how-to-carry-out-k-fold-cross-validation-on-an-imbalanced-classification-problem-6d3d942a8016](https://medium.com/analytics-vidhya/how-to-carry-out-k-fold-cross-validation-on-an-imbalanced-classification-problem-6d3d942a8016)
+5. [https://github.com/appliedecon/data602-lectures](https://github.com/appliedecon/data602-lectures)
